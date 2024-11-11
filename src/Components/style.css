@@ -1,0 +1,9 @@
+.sale{
+    top:0.5rem;
+    right:0.5rem ;
+}
+
+.underline{
+    text-decoration:line-through;
+    opacity: 0.6;
+}
